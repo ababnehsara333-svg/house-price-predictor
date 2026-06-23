@@ -37,9 +37,9 @@ The workflow includes data cleaning, exploratory data analysis, feature engineer
 
 ## 📷 Application Preview
 
-![App Preview](screenshots/home.png)
+![Home Page](screenshots/home.png)
 
-![Prediction Result](screenshots/result.png)
+![Prediction Result](screenshots/prediction.png)
 
 ## 📁 Project Structure
 
